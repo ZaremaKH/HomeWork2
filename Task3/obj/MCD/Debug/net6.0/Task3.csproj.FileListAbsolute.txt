@@ -1,0 +1,15 @@
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\bin\MCD\Debug\net6.0\Task3.exe
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\bin\MCD\Debug\net6.0\Task3.deps.json
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\bin\MCD\Debug\net6.0\Task3.runtimeconfig.json
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\bin\MCD\Debug\net6.0\Task3.dll
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\bin\MCD\Debug\net6.0\Task3.pdb
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\obj\MCD\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\obj\MCD\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\obj\MCD\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\obj\MCD\Debug\net6.0\Task3.AssemblyInfo.cs
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\obj\MCD\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\obj\MCD\Debug\net6.0\Task3.dll
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\obj\MCD\Debug\net6.0\refint\Task3.dll
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\obj\MCD\Debug\net6.0\Task3.pdb
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\obj\MCD\Debug\net6.0\Task3.genruntimeconfig.cache
+C:\Users\777\Desktop\geekbrains\3. Знакомство с языками программирования\HomeWorks\HW2\Task3\obj\MCD\Debug\net6.0\ref\Task3.dll
