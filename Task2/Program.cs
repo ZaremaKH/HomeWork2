@@ -5,15 +5,22 @@
 
 
 Console.WriteLine("Введите число: ");
+int x = Convert.ToInt32(Console.ReadLine());
 
-int x = Convert.ToBase64CharArray(Console.ReadLine());
-int result = x % 10;
-
-if (x / 100 > 0) 
+if (x < 0)
 {
-    Console.WriteLine(result);
+    x = x * -1;
+}
+if (x <= 99)
+{
+    Console.WriteLine("третьей цифры у введенного числа нет");
 }
 else
 {
-    Console.WriteLine("третьей цифры нет");
+    while (x >= 999)
+    {
+        x = x / 10;
+    }
+    x = x % 10;
+    Console.WriteLine($"третья цифра введенного числа -> {x}");
 }
